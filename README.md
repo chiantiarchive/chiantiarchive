@@ -2,6 +2,8 @@
 
 I'm Chianti, this is my other personality online.
 
+Welcome, i don't know how you got here...???
+
 <!--
 **chiantiarchive/chiantiarchive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

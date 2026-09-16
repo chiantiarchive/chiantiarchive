@@ -4,6 +4,9 @@ I'm Chianti, this is my other personality online.
 
 Welcome! i don't know how you got here...???
 
+I'm currently learning Python, Yey?
+
+The Niche that i chose is Automations....
 <!--
 **chiantiarchive/chiantiarchive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@ I'm Chianti.
 
 Hello and welcome! I don't know how you got here...???
 
-I'm currently learning Python, Yey?
+I'm currently learning Python.
 
 The Niche that i chose is Automations....
 <!--

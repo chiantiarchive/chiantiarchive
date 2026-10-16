@@ -8,10 +8,16 @@ I'm currently learning Python.
 
 The Niche that i chose is Automations....
 
-
+ - - - 
+ 
 Time line update:
 
-Took a break coding, from Oct 15 to...
+Oct 15 to undefined... 
+Took a break coding, 
+
+
+Oct 16 2026.
+Organizing and relearning from notes
 <!--
 **chiantiarchive/chiantiarchive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
